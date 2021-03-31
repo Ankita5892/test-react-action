@@ -11,16 +11,16 @@
     "url": "git://github.com/winterbe/react-samples.git"
   },
   "dependencies": {
-    "babel-core": "^5.8.22",
-    "babel-loader": "^5.3.2",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.2.2",
     "bootstrap": "^3.3.5",
-    "flux": "^2.0.3",
-    "lodash": "^3.10.1",
+    "flux": "^4.0.1",
+    "lodash": "^4.17.21",
     "normalize.css": "^3.0.3",
     "object-assign": "^3.0.0",
-    "react": "^0.13.3",
+    "react": "^17.0.2",
     "streamjs": "^1.6.2",
     "underscore.string": "^3.1.1",
-    "webpack": "^1.11.0"
+    "webpack": "^5.28.0"
   }
 }
